@@ -1,7 +1,4 @@
-import { nextTick } from "process"
-
-
-const HomePage = () => {
+const HomePage: React.FC = () => {
   return <div>hello next.js</div>
 }
 
