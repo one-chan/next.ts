@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/one-chan/next.ts/issues"
   },
-  "homepage": "https://github.com/one-chan/next.ts#readme"
+  "homepage": "https://github.com/one-chan/next.ts#readme",
+  "dependencies": {
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
 }
